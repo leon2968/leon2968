@@ -8,8 +8,8 @@
 ---
 
 ### Languages and Tools ✍🏻
-- :computer_mouse: ： Javascript, ReactJs, Java, Python, C++
-- :keyboard: ： Node.js, Linux/Unix, SQL, Git/Github, AWS, REST API
+- :computer_mouse: ： Javascript, Java, Python, C++
+- :keyboard: ： ReactJs, Node.js, Linux/Unix, MySQL/SQL, Git/Github, AWS, REST API
 - :cd: ： Agile, Scrum, Sprint, Jira, Murex
 
 ---
