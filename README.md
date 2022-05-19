@@ -23,4 +23,4 @@
 :pencil2:Currently Studying: Machine Learning, Artificial Intelligence
 
 ### Contact Me 💬
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/leon2968/leon2968/blob/master/linkedin.ico" />](https://www.linkedin.com/in/leon-zheng-a1b34384/))
+[<img align="left" alt="LinkedIn" width="80" src="linkedin.ico" />](https://www.linkedin.com/in/leon-zheng-a1b34384/))
