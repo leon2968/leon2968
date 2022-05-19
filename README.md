@@ -23,4 +23,4 @@
 :pencil2:Currently Studying: Machine Learning, Artificial Intelligence
 
 ### Contact Me 💬
-[![LinkedIn Badge](https://www.linkedin.com/in/leon-zheng-a1b34384/)
+
