@@ -21,3 +21,6 @@
 - :chart_with_upwards_trend:Finance = [Financial Math, Fixed Incomes, Equities, Derivatives, Interest Rates Swaps, Risk Management]
 
 :pencil2:Currently Studying: Machine Learning, Artificial Intelligence
+
+### Contact Me 💬
+[![LinkedIn Badge](https://www.linkedin.com/in/leon-zheng-a1b34384/)
