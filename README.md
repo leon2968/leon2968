@@ -8,9 +8,9 @@
 ---
 
 ### Languages and Tools ✍🏻
--  :computer_mouse: Java, Javascript, Python, C++
-- :keyboard:Spring Boot, ReactJs, Node.js, Linux/Unix, MySQL/SQL, Hibernate, Git/Github, AWS, REST API
-- :cd:Agile, Scrum, Sprint, Jira, Murex
+-  :computer_mouse: Java, Javascript, Python, C++, SQL
+- :keyboard:Spring Boot, Hibernate, JUnit, MySQL, Git/Github, Linux/Unix, ReactJs, Node.js, AWS, REST API
+- :cd:Agile, Scrum, Jira, Murex
 
 ---
 
