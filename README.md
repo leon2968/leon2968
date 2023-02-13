@@ -15,11 +15,11 @@
 
 ### Areas of Study 🎓
 - :triangular_ruler:Mathematics = [Statistics, Operations Research, Multidimensional Calculus, Functions of real/complex variables, Linear/Abstract Algebra, Topology, Numerical Analysis]
-- :mag_right:Computer_Science = [Discrete Mathematics,  Data Structures, Data Science, Algorithms, OOP, Front-end, Back-end, Cryptography]
+- :mag_right:Computer_Science = [Discrete Mathematics,  Data Structures, Data Science, Algorithms, OOP, Cryptography]
 - :bar_chart:Economics = [Game Theory, Macroeconomics, Microeconomics, Econometrics, Industrial Organization, Economics of Organizations]
 - :chart_with_upwards_trend:Finance = [Financial Math, Fixed Incomes, Equities, Derivatives, Interest Rates Swaps, Risk Management]
 
-:pencil2:Currently Studying: Machine Learning, Artificial Intelligence
+:pencil2:Currently Studying: Full-Stack Programming
 
 ### Contact Me 💬
 [<img align="left" alt="LinkedIn" width="80" src="linkedin.ico" />](https://www.linkedin.com/in/leon-zheng-a1b34384/)
