@@ -2,7 +2,7 @@
 # Hello there 👋
 
 - :books: I enjoy learning new skills and knowledges
-- :computer: Like tech stuffs
+- :computer: Favor strategy/base-building games : Civilization Series, Stellaris, RimWorld, Crusader Kings, Oxygen Not Included
 
 ---
 
