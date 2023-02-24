@@ -2,7 +2,7 @@
 # Hello there 👋
 
 - :books: I enjoy learning new skills and knowledges
-- :computer: Favor strategy/base-building/deck-building games : Civilization Series, Stellaris, RimWorld, Slay the Spire, Crusader Kings, etc
+- :computer: Favor strategy/base-building/deck-building games : Civilization Series, Stellaris
 
 ---
 
